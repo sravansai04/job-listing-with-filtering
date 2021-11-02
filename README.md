@@ -11,7 +11,7 @@ You can find this Challange [here](https://www.frontendmentor.io/solutions/job-l
 
 # Demo 
 
-[Job Listing Demo](https://j.gifs.com/XQ7EYk.gif)
+![Job Listing Demo](https://j.gifs.com/XQ7EYk.gif)
 
 
 
