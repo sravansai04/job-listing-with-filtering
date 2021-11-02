@@ -5,8 +5,13 @@ This repository contains code for Job listing website in reactjs.
 View Demo:
 https://react-job-listing-website.vercel.app/
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Demo 
+
+![Job Listing Demo](https://j.gifs.com/XQ7EYk.gif)
+
+
 
 ## Available Scripts
 
@@ -41,9 +46,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-
-# Demo 
-
-![Job Listing Demo](https://j.gifs.com/oZvqOz.gif)
 
